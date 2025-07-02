@@ -1,0 +1,1694 @@
+{
+  "versionCode": "0_18",
+  "dataVersion": "2.1.3",
+  "creatVersion": 213,
+  "isNewbie": false,
+  "nowNewbieGuideStep": 203,
+  "sid": 1,
+  "enterSkillTree": false,
+  "enterSkillTreeByEnough": false,
+  "enterHandbook": false,
+  "enterBuff": false,
+  "enterShop": false,
+  "newbieLv3TipShowed": false,
+  "unlockedNeuronsNoBirth": false,
+  "unlockedLifeTreeNoBirth": false,
+  "hasRateUs": false,
+  "hasShowRateUsPop": false,
+  "PlayerAccount": "8B33E21E657DE7CD822FEA47679E5012C43BF41F",
+  "PlayerPlatformAccount": "",
+  "lastLvUpMaxEraId": -1,
+  "unlockedMaxEra": 1000,
+  "Lv": 0,
+  "Name": "1tbgffgh",
+  "RobotName": "小助手",
+  "headIcon": 1000,
+  "changeNameCount": 1,
+  "vIPInfo": {
+    "isVIP": 1,
+    "startTime": 1751349835000,
+    "overTime": 2066882635000,
+    "signDate": 20250702,
+    "signLifeTreeDate": 20250702,
+    "isShow": 0,
+    "isReward": 1,
+    "vipState": 0
+  },
+  "isFirstSpin": true,
+  "isFirstOnlineSpin": true,
+  "lifeTreeSpinCount": 0,
+  "isFirstSpeedUp": true,
+  "isFirstOpenShopBox": true,
+  "buyCopperCount": 0,
+  "adOpenCopperLastTime": 0,
+  "outTime": 1751397878,
+  "outLineRewardTime": 0,
+  "questionCount": 30,
+  "questionCDInfos": null,
+  "randQInfos": [],
+  "speedUpInfo": {
+    "speedUpTime": 0,
+    "speedUpCDTime": 0,
+    "speedUpCount": 0,
+    "speedLastTime": 0
+  },
+  "onlineTime": 393,
+  "onlineReward": 0,
+  "neuronsLv": 0,
+  "getBubbleflyBox": 0,
+  "isFirstOpenFlyBox": true,
+  "isSecondSpin": true,
+  "isSecondSpeedUp": true,
+  "isSecondOpenShopBox": true,
+  "isFirstRandBuff": true,
+  "getRedGiftCount": 0,
+  "shopQuestion": {
+    "id": 1,
+    "state": 0,
+    "count": 0
+  },
+  "nowLockedEraId": 1001,
+  "nowLockedLifesInfo": [
+    {
+      "eraId": 1000,
+      "lifeId": 902
+    }
+  ],
+  "unlockedEras": [
+    {
+      "id": 1000,
+      "lv": 1
+    }
+  ],
+  "allUnlockedLifes": [
+    {
+      "lifeId": 901,
+      "eraId": 1000,
+      "gotRewardLv": 0,
+      "lv": 3,
+      "breed": 1,
+      "cardLv": 1,
+      "cardCount": 0,
+      "lastBubbleIntervalTime": 5,
+      "hasCardBubble": false
+    }
+  ],
+  "allBirthUnlockedLifes": null,
+  "historyUnlockedLifes": [
+    901
+  ],
+  "secondCalInfosList": [],
+  "rebirthTimeInfosList": [],
+  "unlockedParts": [],
+  "shopItemInfos": [
+    {
+      "id": 1,
+      "type": 2,
+      "startTime": "1751397287",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 2,
+      "type": 2,
+      "startTime": "1751483687",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 3,
+      "type": 2,
+      "startTime": "0",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 4,
+      "type": 2,
+      "startTime": "0",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 5,
+      "type": 2,
+      "startTime": "0",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 6,
+      "type": 2,
+      "startTime": "0",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 7,
+      "type": 2,
+      "startTime": "0",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 8,
+      "type": 2,
+      "startTime": "0",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 9,
+      "type": 2,
+      "startTime": "0",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 10,
+      "type": 2,
+      "startTime": "0",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 1001,
+      "type": 1,
+      "startTime": "1751382887",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 1010,
+      "type": 1,
+      "startTime": "0",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 1020,
+      "type": 1,
+      "startTime": "0",
+      "overTime": "0",
+      "buyCount": 0
+    },
+    {
+      "id": 1021,
+      "type": 1,
+      "startTime": "0",
+      "overTime": "0",
+      "buyCount": 0
+    }
+  ],
+  "shopLifeInfos": [
+    {
+      "id": 901,
+      "curCount": 0,
+      "maxCount": 16
+    }
+  ],
+  "hormoneInfos": [
+    {
+      "id": 1,
+      "lv": 0
+    },
+    {
+      "id": 2,
+      "lv": 0
+    },
+    {
+      "id": 3,
+      "lv": 0
+    },
+    {
+      "id": 4,
+      "lv": 0
+    },
+    {
+      "id": 5,
+      "lv": 0
+    },
+    {
+      "id": 6,
+      "lv": 0
+    }
+  ],
+  "Coin": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Diamon": {
+    "num": 10000,
+    "unit": 80
+  },
+  "UDiamon": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Water": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Wisdom": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Hormone": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Bell": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Fu": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Cream": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Intellect": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Punch": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Refine": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Keep": {
+    "num": 10000,
+    "unit": 80
+  },
+  "HighCrystalBoxTicket": {
+    "num": 10000,
+    "unit": 80
+  },
+  "CrystalChip": {
+    "num": 10000,
+    "unit": 80
+  },
+  "Badge": {
+    "num": 10000,
+    "unit": 80
+  },
+  "purchaserList": [],
+  "questionInfos": null,
+  "allUnlockTasks": [
+    901,
+    1001,
+    1100,
+    1453
+  ],
+  "allUnlockRebirthTasks": [],
+  "doingTasks": [
+    {
+      "taskId": 901,
+      "useNumBean": false,
+      "nowProgress": 0,
+      "nowProgressBean": null,
+      "isCompleted": false,
+      "gotReward": false,
+      "conditions": [
+        "5",
+        "902"
+      ]
+    },
+    {
+      "taskId": 1001,
+      "useNumBean": false,
+      "nowProgress": 0,
+      "nowProgressBean": null,
+      "isCompleted": false,
+      "gotReward": false,
+      "conditions": [
+        "5",
+        "904"
+      ]
+    },
+    {
+      "taskId": 1100,
+      "useNumBean": false,
+      "nowProgress": 0,
+      "nowProgressBean": null,
+      "isCompleted": false,
+      "gotReward": false,
+      "conditions": [
+        "5",
+        "904"
+      ]
+    },
+    {
+      "taskId": 1453,
+      "useNumBean": false,
+      "nowProgress": 0,
+      "nowProgressBean": null,
+      "isCompleted": false,
+      "gotReward": false,
+      "conditions": [
+        "5",
+        "904"
+      ]
+    }
+  ],
+  "signInfo": {
+    "date": 0,
+    "count": 0,
+    "isShow": 0,
+    "newDayDate": 20250702
+  },
+  "onlineInfo": {
+    "id": 1,
+    "time": 0,
+    "state": 1
+  },
+  "saleInfo": {
+    "id": 1,
+    "time": "1751397287",
+    "saleGiftInfos": [
+      {
+        "id": 1,
+        "state": 0
+      },
+      {
+        "id": 2,
+        "state": 0
+      },
+      {
+        "id": 3,
+        "state": 0
+      },
+      {
+        "id": 4,
+        "state": 0
+      },
+      {
+        "id": 5,
+        "state": 0
+      },
+      {
+        "id": 6,
+        "state": 0
+      },
+      {
+        "id": 7,
+        "state": 0
+      }
+    ]
+  },
+  "christSaleInfo": {
+    "id": 1,
+    "time": "0",
+    "saleGiftInfos": null
+  },
+  "chNYSaleInfo": {
+    "id": 1,
+    "time": "0",
+    "saleGiftInfos": null
+  },
+  "childSaleInfo": {
+    "id": 1,
+    "time": "0",
+    "saleGiftInfos": null
+  },
+  "chNYEventInfos": [
+    {
+      "id": 1,
+      "count": 0
+    },
+    {
+      "id": 2,
+      "count": 0
+    },
+    {
+      "id": 3,
+      "count": 0
+    },
+    {
+      "id": 4,
+      "count": 0
+    },
+    {
+      "id": 5,
+      "count": 0
+    },
+    {
+      "id": 6,
+      "count": 0
+    },
+    {
+      "id": 7,
+      "count": 0
+    },
+    {
+      "id": 8,
+      "count": 0
+    },
+    {
+      "id": 9,
+      "count": 0
+    },
+    {
+      "id": 10,
+      "count": 0
+    },
+    {
+      "id": 11,
+      "count": 0
+    },
+    {
+      "id": 12,
+      "count": 0
+    }
+  ],
+  "childEventInfos": [
+    {
+      "id": 1,
+      "count": 0
+    },
+    {
+      "id": 2,
+      "count": 0
+    },
+    {
+      "id": 3,
+      "count": 0
+    },
+    {
+      "id": 4,
+      "count": 0
+    },
+    {
+      "id": 5,
+      "count": 0
+    },
+    {
+      "id": 6,
+      "count": 0
+    },
+    {
+      "id": 7,
+      "count": 0
+    },
+    {
+      "id": 8,
+      "count": 0
+    },
+    {
+      "id": 9,
+      "count": 0
+    },
+    {
+      "id": 10,
+      "count": 0
+    },
+    {
+      "id": 11,
+      "count": 0
+    },
+    {
+      "id": 12,
+      "count": 0
+    },
+    {
+      "id": 13,
+      "count": 0
+    },
+    {
+      "id": 14,
+      "count": 0
+    },
+    {
+      "id": 15,
+      "count": 0
+    },
+    {
+      "id": 16,
+      "count": 0
+    },
+    {
+      "id": 17,
+      "count": 0
+    },
+    {
+      "id": 18,
+      "count": 0
+    }
+  ],
+  "getIntellect": 0,
+  "getQGem": 0,
+  "anniversaryEventInfos": [
+    {
+      "id": 1,
+      "count": 0
+    },
+    {
+      "id": 2,
+      "count": 0
+    },
+    {
+      "id": 3,
+      "count": 0
+    },
+    {
+      "id": 4,
+      "count": 0
+    },
+    {
+      "id": 5,
+      "count": 0
+    },
+    {
+      "id": 6,
+      "count": 0
+    },
+    {
+      "id": 7,
+      "count": 0
+    },
+    {
+      "id": 8,
+      "count": 0
+    },
+    {
+      "id": 9,
+      "count": 0
+    },
+    {
+      "id": 10,
+      "count": 0
+    },
+    {
+      "id": 11,
+      "count": 0
+    },
+    {
+      "id": 12,
+      "count": 0
+    },
+    {
+      "id": 13,
+      "count": 0
+    },
+    {
+      "id": 14,
+      "count": 0
+    },
+    {
+      "id": 15,
+      "count": 0
+    }
+  ],
+  "getAnniversaryRedGiftCount": 0,
+  "anniversarySaleInfos": [
+    {
+      "id": 1,
+      "state": 0
+    },
+    {
+      "id": 2,
+      "state": 0
+    },
+    {
+      "id": 3,
+      "state": 0
+    },
+    {
+      "id": 4,
+      "state": 0
+    },
+    {
+      "id": 5,
+      "state": 0
+    },
+    {
+      "id": 6,
+      "state": 0
+    },
+    {
+      "id": 7,
+      "state": 0
+    },
+    {
+      "id": 8,
+      "state": 0
+    }
+  ],
+  "getShopDNABuff": 0,
+  "getShopBubbleBuff": 0,
+  "watchADCount": 0,
+  "rebInfos": [],
+  "payGiftDatas": [],
+  "getLifeTreeExp1": 0,
+  "getLifeTreeExp2": 0,
+  "crystalHBoxCount": 0,
+  "getCrystalChipCount1": 0,
+  "getCrystalChipCount2": 0,
+  "todaySpinCount": 0,
+  "lastIntervelTime": 0,
+  "luckySpinProgressCount": 0,
+  "luckySpinCount": 0,
+  "luckySpinPassNewFirst": false,
+  "GSpinCountInfos": [
+    {
+      "type": 31,
+      "count": 0
+    },
+    {
+      "type": 32,
+      "count": 0
+    },
+    {
+      "type": 33,
+      "count": 0
+    }
+  ],
+  "GSpinBoxGetStates": [
+    {
+      "type": 0,
+      "state": -1
+    },
+    {
+      "type": 1,
+      "state": -1
+    },
+    {
+      "type": 2,
+      "state": -1
+    }
+  ],
+  "achInfos": [
+    {
+      "type": 1,
+      "curID": 1001,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 2,
+      "curID": 1002,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 3,
+      "curID": 1003,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 4,
+      "curID": 1011,
+      "progress": "2",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 5,
+      "curID": 1019,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 6,
+      "curID": 1025,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 8,
+      "curID": 1031,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 9,
+      "curID": 1039,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 13,
+      "curID": 1091,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 14,
+      "curID": 1190,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 15,
+      "curID": 1276,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 16,
+      "curID": 1284,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 17,
+      "curID": 1292,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 18,
+      "curID": 1300,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 19,
+      "curID": 1308,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 20,
+      "curID": 1316,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 21,
+      "curID": 1324,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 22,
+      "curID": 1328,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 23,
+      "curID": 1332,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 24,
+      "curID": 1335,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 25,
+      "curID": 1338,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 26,
+      "curID": 1341,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 27,
+      "curID": 1344,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 28,
+      "curID": 1347,
+      "progress": "1",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 29,
+      "curID": 1351,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 30,
+      "curID": 1356,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    },
+    {
+      "type": 31,
+      "curID": 1362,
+      "progress": "0",
+      "state": 0,
+      "doneIDs": ""
+    }
+  ],
+  "achDoneInfos": [],
+  "achUnlockLifeInfos": [
+    {
+      "type": 0,
+      "curID": 901,
+      "progress": null,
+      "state": 0,
+      "doneIDs": null
+    }
+  ],
+  "lastLoginTime": 1751397286423,
+  "pastDay": 20250702,
+  "pastDayTwelve": 0,
+  "bufferInfoList": [],
+  "bufferBackpackInfos": [],
+  "DNABPBufferInUseList": [],
+  "BubbleBpBufferInUseList": [],
+  "biopaksList": [],
+  "todayBiopakSeeAdCount": 0,
+  "assembleInfos": [
+    {
+      "eraID": 1000,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1001,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1002,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1003,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1004,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1005,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1006,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1007,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1008,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1009,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1010,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1011,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1012,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1013,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1014,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1015,
+      "lv": 0,
+      "state": 0
+    },
+    {
+      "eraID": 1016,
+      "lv": 0,
+      "state": 0
+    }
+  ],
+  "christEventInfos": [
+    {
+      "id": 1,
+      "count": 0
+    },
+    {
+      "id": 2,
+      "count": 0
+    },
+    {
+      "id": 3,
+      "count": 0
+    },
+    {
+      "id": 4,
+      "count": 0
+    },
+    {
+      "id": 5,
+      "count": 0
+    },
+    {
+      "id": 6,
+      "count": 0
+    },
+    {
+      "id": 7,
+      "count": 0
+    },
+    {
+      "id": 8,
+      "count": 0
+    },
+    {
+      "id": 9,
+      "count": 0
+    },
+    {
+      "id": 10,
+      "count": 0
+    },
+    {
+      "id": 11,
+      "count": 0
+    },
+    {
+      "id": 12,
+      "count": 0
+    }
+  ],
+  "christLifeInfos": [],
+  "getFuCount": 0,
+  "getBellCount": 0,
+  "getBadgeCount": 0,
+  "playExtraHeads": [],
+  "timeRewards": [],
+  "SpecialPriceEndDay": 1752002087423,
+  "NormalPriceEndDay": 1753989287423,
+  "lastShowMWPop": 0,
+  "lv_ChNYFlyGift": 1,
+  "lv_ChristmasFly": 1,
+  "lv_ChildrenDay": 1,
+  "lv_AnniersaryFlyGift": 1,
+  "crystalInfo": {
+    "crystalBigDatas": [],
+    "maxBigCount": 25,
+    "maxSmallCount": 25,
+    "crystalChipRecoup": 1,
+    "crystalSmallDatas": []
+  },
+  "aiStealInfos": [],
+  "aiStealCount": 0,
+  "lifeTreeLv": 1,
+  "lifeTreeExp": 0,
+  "nowStrength": 80,
+  "nowSeeADCount_Strength": 0,
+  "nowBuyCount_Strength": 0,
+  "lastRecoverStrengthTime": 1751397878380,
+  "lastCreatCreamTime": 1751397286423,
+  "mWaitCreamSlotInfos": [],
+  "shieldNum": 0,
+  "drawedProtect_Steal": 0,
+  "drawedProtect_Shield": 0,
+  "drawedProtect_HBox": 0,
+  "drawedProtect_EXP": 0,
+  "drawedProtect_Crystal": 0,
+  "sCrystalGetStates": [
+    -1,
+    -1,
+    -1
+  ],
+  "slotCrystalDatas": [],
+  "limitSaleDatas": [
+    {
+      "id": 1,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 2,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 3,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 4,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 5,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 6,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 9,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 11,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 12,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 13,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 14,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 15,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 16,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 17,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 18,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 19,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "id": 20,
+      "count": 0,
+      "buyTime": "0"
+    }
+  ],
+  "totalPayOneDay": "0",
+  "limitGiftTotalDatas": [
+    {
+      "id": 1,
+      "state": 0
+    },
+    {
+      "id": 2,
+      "state": 0
+    },
+    {
+      "id": 3,
+      "state": 0
+    },
+    {
+      "id": 4,
+      "state": 0
+    },
+    {
+      "id": 5,
+      "state": 0
+    },
+    {
+      "id": 6,
+      "state": 0
+    },
+    {
+      "id": 7,
+      "state": 0
+    }
+  ],
+  "limitGiftInfos": [
+    {
+      "type": 1,
+      "id": 8,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "type": 2,
+      "id": 11,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "type": 3,
+      "id": 13,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "type": 4,
+      "id": 15,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "type": 5,
+      "id": 16,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "type": 6,
+      "id": 17,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "type": 7,
+      "id": 18,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "type": 8,
+      "id": 19,
+      "count": 0,
+      "buyTime": "0"
+    },
+    {
+      "type": 9,
+      "id": 20,
+      "count": 0,
+      "buyTime": "0"
+    }
+  ],
+  "visitTaskValue": 0,
+  "visitTaskInfos": [
+    {
+      "id": 1,
+      "count": 0,
+      "state": 0
+    },
+    {
+      "id": 2,
+      "count": 0,
+      "state": 0
+    },
+    {
+      "id": 3,
+      "count": 0,
+      "state": 0
+    },
+    {
+      "id": 4,
+      "count": 0,
+      "state": 0
+    },
+    {
+      "id": 5,
+      "count": 0,
+      "state": 0
+    },
+    {
+      "id": 6,
+      "count": 0,
+      "state": 0
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "state": 0
+    },
+    {
+      "id": 8,
+      "count": 6,
+      "state": 0
+    },
+    {
+      "id": 9,
+      "count": 0,
+      "state": 0
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "state": 0
+    },
+    {
+      "id": 11,
+      "count": 0,
+      "state": 0
+    },
+    {
+      "id": 12,
+      "count": 0,
+      "state": 0
+    }
+  ],
+  "visitTaskTotalInfos": [
+    {
+      "id": 1,
+      "state": 0
+    },
+    {
+      "id": 2,
+      "state": 0
+    },
+    {
+      "id": 3,
+      "state": 0
+    },
+    {
+      "id": 4,
+      "state": 0
+    },
+    {
+      "id": 5,
+      "state": 0
+    }
+  ],
+  "crystalShopData": {
+    "overTime": "0",
+    "nextGold": 0,
+    "crystalShopItems": []
+  },
+  "visitCardLv": 1,
+  "visitCardExp": 0,
+  "visitGetStates": [
+    {
+      "lv": 1,
+      "state": 1
+    },
+    {
+      "lv": 2,
+      "state": 0
+    },
+    {
+      "lv": 3,
+      "state": 0
+    },
+    {
+      "lv": 4,
+      "state": 0
+    },
+    {
+      "lv": 5,
+      "state": 0
+    },
+    {
+      "lv": 6,
+      "state": 0
+    },
+    {
+      "lv": 7,
+      "state": 0
+    },
+    {
+      "lv": 8,
+      "state": 0
+    },
+    {
+      "lv": 9,
+      "state": 0
+    },
+    {
+      "lv": 10,
+      "state": 0
+    },
+    {
+      "lv": 11,
+      "state": 0
+    },
+    {
+      "lv": 12,
+      "state": 0
+    },
+    {
+      "lv": 13,
+      "state": 0
+    },
+    {
+      "lv": 14,
+      "state": 0
+    },
+    {
+      "lv": 15,
+      "state": 0
+    },
+    {
+      "lv": 16,
+      "state": 0
+    },
+    {
+      "lv": 17,
+      "state": 0
+    },
+    {
+      "lv": 18,
+      "state": 0
+    },
+    {
+      "lv": 19,
+      "state": 0
+    },
+    {
+      "lv": 20,
+      "state": 0
+    },
+    {
+      "lv": 21,
+      "state": 0
+    },
+    {
+      "lv": 22,
+      "state": 0
+    },
+    {
+      "lv": 23,
+      "state": 0
+    },
+    {
+      "lv": 24,
+      "state": 0
+    },
+    {
+      "lv": 25,
+      "state": 0
+    }
+  ],
+  "visitCardEndTime": 1753989288423,
+  "mDataActType": 0,
+  "dataActVCode": 0,
+  "rankValue": 0,
+  "rechargeRankValue": 0,
+  "taskRankValue": 0,
+  "otherRankValue": 0,
+  "seaActRewardInfos": [
+    {
+      "id": 1,
+      "state": 0
+    },
+    {
+      "id": 2,
+      "state": 0
+    },
+    {
+      "id": 3,
+      "state": 0
+    },
+    {
+      "id": 4,
+      "state": 0
+    },
+    {
+      "id": 5,
+      "state": 0
+    },
+    {
+      "id": 6,
+      "state": 0
+    },
+    {
+      "id": 7,
+      "state": 0
+    },
+    {
+      "id": 8,
+      "state": 0
+    },
+    {
+      "id": 9,
+      "state": 0
+    },
+    {
+      "id": 10,
+      "state": 0
+    },
+    {
+      "id": 11,
+      "state": 0
+    },
+    {
+      "id": 12,
+      "state": 0
+    },
+    {
+      "id": 13,
+      "state": 0
+    },
+    {
+      "id": 14,
+      "state": 0
+    },
+    {
+      "id": 15,
+      "state": 0
+    },
+    {
+      "id": 16,
+      "state": 0
+    },
+    {
+      "id": 17,
+      "state": 0
+    },
+    {
+      "id": 18,
+      "state": 0
+    },
+    {
+      "id": 19,
+      "state": 0
+    },
+    {
+      "id": 20,
+      "state": 0
+    }
+  ],
+  "rankIsGet": 0,
+  "seaFlyADCount": 0,
+  "rankMyNum": 0,
+  "humanActRewardInfos": [
+    {
+      "id": 1,
+      "count": 0
+    },
+    {
+      "id": 2,
+      "count": 0
+    },
+    {
+      "id": 3,
+      "count": 0
+    },
+    {
+      "id": 4,
+      "count": 0
+    },
+    {
+      "id": 5,
+      "count": 0
+    },
+    {
+      "id": 6,
+      "count": 0
+    },
+    {
+      "id": 7,
+      "count": 0
+    },
+    {
+      "id": 8,
+      "count": 0
+    },
+    {
+      "id": 9,
+      "count": 0
+    },
+    {
+      "id": 10,
+      "count": 0
+    },
+    {
+      "id": 11,
+      "count": 0
+    },
+    {
+      "id": 12,
+      "count": 0
+    },
+    {
+      "id": 13,
+      "count": 0
+    },
+    {
+      "id": 14,
+      "count": 0
+    },
+    {
+      "id": 15,
+      "count": 0
+    }
+  ],
+  "rankConsumeValue": 0,
+  "hmActRewardInfos": [
+    {
+      "id": 1,
+      "state": 0
+    },
+    {
+      "id": 2,
+      "state": 0
+    },
+    {
+      "id": 3,
+      "state": 0
+    },
+    {
+      "id": 4,
+      "state": 0
+    },
+    {
+      "id": 5,
+      "state": 0
+    },
+    {
+      "id": 6,
+      "state": 0
+    },
+    {
+      "id": 7,
+      "state": 0
+    },
+    {
+      "id": 8,
+      "state": 0
+    },
+    {
+      "id": 9,
+      "state": 0
+    },
+    {
+      "id": 10,
+      "state": 0
+    },
+    {
+      "id": 11,
+      "state": 0
+    },
+    {
+      "id": 12,
+      "state": 0
+    },
+    {
+      "id": 13,
+      "state": 0
+    },
+    {
+      "id": 14,
+      "state": 0
+    },
+    {
+      "id": 15,
+      "state": 0
+    },
+    {
+      "id": 16,
+      "state": 0
+    },
+    {
+      "id": 17,
+      "state": 0
+    },
+    {
+      "id": 18,
+      "state": 0
+    },
+    {
+      "id": 19,
+      "state": 0
+    },
+    {
+      "id": 20,
+      "state": 0
+    }
+  ]
+}

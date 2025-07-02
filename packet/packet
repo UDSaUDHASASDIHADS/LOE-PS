@@ -1,0 +1,3991 @@
+{
+    "versionCode": "0_8951",
+    "dataVersion": "2.1.3",
+    "creatVersion": 213,
+    "isNewbie": false,
+    "nowNewbieGuideStep": 1426,
+    "sid": 1,
+    "enterSkillTree": true,
+    "enterSkillTreeByEnough": true,
+    "enterHandbook": true,
+    "enterBuff": true,
+    "enterShop": true,
+    "newbieLv3TipShowed": false,
+    "unlockedNeuronsNoBirth": false,
+    "unlockedLifeTreeNoBirth": false,
+    "hasRateUs": true,
+    "hasShowRateUsPop": true,
+    "PlayerAccount": "A5FE4EE96662D091D64F6752EAC9EDBA57D2307E",
+    "PlayerPlatformAccount": "",
+    "lastLvUpMaxEraId": 1008,
+    "unlockedMaxEra": 1011,
+    "Lv": 101,
+    "Name": "488877",
+    "RobotName": "\u5C0F\u52A9\u624B",
+    "headIcon": 1000,
+    "changeNameCount": 1,
+    "vIPInfo": {
+        "isVIP": 1,
+        "startTime": 1751349835000,
+        "overTime": 2066882635000,
+        "signDate": 1,
+        "signLifeTreeDate": 1,
+        "isShow": 1,
+        "isReward": 1,
+        "vipState": 0
+    },
+    "isFirstSpin": false,
+    "isFirstOnlineSpin": false,
+    "lifeTreeSpinCount": 40,
+    "isFirstSpeedUp": false,
+    "isFirstOpenShopBox": false,
+    "buyCopperCount": 0,
+    "adOpenCopperLastTime": 1751006905019,
+    "outTime": 1751365519,
+    "outLineRewardTime": 0,
+    "questionCount": 28,
+    "questionCDInfos": null,
+    "randQInfos": [
+        {
+            "type": 2,
+            "id": 0,
+            "chose": 0,
+            "questionCDTime": 0.0,
+            "questionTime": -522,
+            "vipChose": 3,
+            "question": 12611,
+            "ui1": 12614,
+            "ui2": 12613,
+            "ui3": 12612,
+            "uiAnswer": 1
+        },
+        {
+            "type": 3,
+            "id": 0,
+            "chose": 0,
+            "questionCDTime": 0.0,
+            "questionTime": 0,
+            "vipChose": 2,
+            "question": 13021,
+            "ui1": 13023,
+            "ui2": 13022,
+            "ui3": 13024,
+            "uiAnswer": 1
+        },
+        {
+            "type": 5,
+            "id": 0,
+            "chose": 0,
+            "questionCDTime": 0.0,
+            "questionTime": 0,
+            "vipChose": 2,
+            "question": 12196,
+            "ui1": 12197,
+            "ui2": 12198,
+            "ui3": 12199,
+            "uiAnswer": 3
+        },
+        {
+            "type": 1,
+            "id": 0,
+            "chose": 0,
+            "questionCDTime": 0.0,
+            "questionTime": -522,
+            "vipChose": 3,
+            "question": 12001,
+            "ui1": 12004,
+            "ui2": 12002,
+            "ui3": 12003,
+            "uiAnswer": 2
+        },
+        {
+            "type": 6,
+            "id": 0,
+            "chose": 0,
+            "questionCDTime": 0.0,
+            "questionTime": 0,
+            "vipChose": 2,
+            "question": 10696,
+            "ui1": 10698,
+            "ui2": 10697,
+            "ui3": 10699,
+            "uiAnswer": 1
+        }
+    ],
+    "speedUpInfo": {
+        "speedUpTime": 0.0,
+        "speedUpCDTime": 0.0,
+        "speedUpCount": 0,
+        "speedLastTime": 1751206391472
+    },
+    "onlineTime": 2697,
+    "onlineReward": 0,
+    "neuronsLv": 14,
+    "getBubbleflyBox": 1,
+    "isFirstOpenFlyBox": false,
+    "isSecondSpin": false,
+    "isSecondSpeedUp": false,
+    "isSecondOpenShopBox": false,
+    "isFirstRandBuff": false,
+    "getRedGiftCount": 0,
+    "shopQuestion": {
+        "id": 1,
+        "state": 0,
+        "count": 0
+    },
+    "nowLockedEraId": 1012,
+    "nowLockedLifesInfo": [
+        {
+            "eraId": 1000,
+            "lifeId": 902
+        },
+        {
+            "eraId": 1007,
+            "lifeId": 1602
+        },
+        {
+            "eraId": 1008,
+            "lifeId": 1702
+        },
+        {
+            "eraId": 1009,
+            "lifeId": 1802
+        },
+        {
+            "eraId": 1010,
+            "lifeId": 1902
+        },
+        {
+            "eraId": 1011,
+            "lifeId": 2007
+        }
+    ],
+    "unlockedEras": [
+        {
+            "id": 1000,
+            "lv": 1
+        },
+        {
+            "id": 1001,
+            "lv": 1
+        },
+        {
+            "id": 1002,
+            "lv": 1
+        },
+        {
+            "id": 1003,
+            "lv": 1
+        },
+        {
+            "id": 1004,
+            "lv": 1
+        },
+        {
+            "id": 1005,
+            "lv": 1
+        },
+        {
+            "id": 1006,
+            "lv": 1
+        },
+        {
+            "id": 1007,
+            "lv": 1
+        },
+        {
+            "id": 1008,
+            "lv": 1
+        },
+        {
+            "id": 1009,
+            "lv": 1
+        },
+        {
+            "id": 1010,
+            "lv": 1
+        },
+        {
+            "id": 1011,
+            "lv": 1
+        }
+    ],
+    "allUnlockedLifes": [
+        {
+            "lifeId": 901,
+            "eraId": 1000,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 21,
+            "lastBubbleIntervalTime": 7,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1001,
+            "eraId": 1001,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 70,
+            "lastBubbleIntervalTime": 14,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 902,
+            "eraId": 1000,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 6,
+            "cardCount": 9,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 903,
+            "eraId": 1000,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 78,
+            "lastBubbleIntervalTime": 6,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 904,
+            "eraId": 1000,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 27,
+            "lastBubbleIntervalTime": 6,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1002,
+            "eraId": 1001,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 74,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1003,
+            "eraId": 1001,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 52,
+            "lastBubbleIntervalTime": 9,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1004,
+            "eraId": 1001,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 12,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1101,
+            "eraId": 1002,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 6,
+            "cardCount": 14,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1102,
+            "eraId": 1002,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 57,
+            "lastBubbleIntervalTime": 12,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1103,
+            "eraId": 1002,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 46,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1104,
+            "eraId": 1002,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 2,
+            "cardLv": 6,
+            "cardCount": 15,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1201,
+            "eraId": 1003,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 5,
+            "cardLv": 5,
+            "cardCount": 34,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1202,
+            "eraId": 1003,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 31,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1203,
+            "eraId": 1003,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 14,
+            "lastBubbleIntervalTime": 13,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1204,
+            "eraId": 1003,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 38,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1205,
+            "eraId": 1003,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 4,
+            "cardCount": 47,
+            "lastBubbleIntervalTime": 7,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1301,
+            "eraId": 1004,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 19,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1401,
+            "eraId": 1005,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 17,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1501,
+            "eraId": 1006,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 44,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1302,
+            "eraId": 1004,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 4,
+            "cardCount": 17,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1303,
+            "eraId": 1004,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 4,
+            "cardCount": 28,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1304,
+            "eraId": 1004,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 4,
+            "cardCount": 39,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1305,
+            "eraId": 1004,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 4,
+            "cardCount": 25,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1402,
+            "eraId": 1005,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 4,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1403,
+            "eraId": 1005,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 47,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1404,
+            "eraId": 1005,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 15,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1405,
+            "eraId": 1005,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 33,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1406,
+            "eraId": 1005,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 35,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1502,
+            "eraId": 1006,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 74,
+            "lastBubbleIntervalTime": 10,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1503,
+            "eraId": 1006,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 42,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1504,
+            "eraId": 1006,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 57,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1505,
+            "eraId": 1006,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 35,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1506,
+            "eraId": 1006,
+            "gotRewardLv": 999,
+            "lv": 999,
+            "breed": 3,
+            "cardLv": 6,
+            "cardCount": 41,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1601,
+            "eraId": 1007,
+            "gotRewardLv": 0,
+            "lv": 1,
+            "breed": 2,
+            "cardLv": 5,
+            "cardCount": 95,
+            "lastBubbleIntervalTime": 0,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1701,
+            "eraId": 1008,
+            "gotRewardLv": 0,
+            "lv": 1,
+            "breed": 3,
+            "cardLv": 2,
+            "cardCount": 93,
+            "lastBubbleIntervalTime": 45,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 1801,
+            "eraId": 1009,
+            "gotRewardLv": 0,
+            "lv": 1,
+            "breed": 1,
+            "cardLv": 1,
+            "cardCount": 0,
+            "lastBubbleIntervalTime": 12,
+            "hasCardBubble": true
+        },
+        {
+            "lifeId": 1901,
+            "eraId": 1010,
+            "gotRewardLv": 0,
+            "lv": 1,
+            "breed": 1,
+            "cardLv": 1,
+            "cardCount": 0,
+            "lastBubbleIntervalTime": 7,
+            "hasCardBubble": true
+        },
+        {
+            "lifeId": 2001,
+            "eraId": 1011,
+            "gotRewardLv": 0,
+            "lv": 1,
+            "breed": 2,
+            "cardLv": 1,
+            "cardCount": 0,
+            "lastBubbleIntervalTime": 14,
+            "hasCardBubble": true
+        },
+        {
+            "lifeId": 2002,
+            "eraId": 1011,
+            "gotRewardLv": 0,
+            "lv": 1,
+            "breed": 1,
+            "cardLv": 2,
+            "cardCount": 0,
+            "lastBubbleIntervalTime": 12,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 2003,
+            "eraId": 1011,
+            "gotRewardLv": 0,
+            "lv": 1,
+            "breed": 1,
+            "cardLv": 2,
+            "cardCount": 0,
+            "lastBubbleIntervalTime": 14,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 2004,
+            "eraId": 1011,
+            "gotRewardLv": 0,
+            "lv": 31,
+            "breed": 1,
+            "cardLv": 2,
+            "cardCount": 0,
+            "lastBubbleIntervalTime": 8,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 2005,
+            "eraId": 1011,
+            "gotRewardLv": 0,
+            "lv": 107,
+            "breed": 1,
+            "cardLv": 2,
+            "cardCount": 0,
+            "lastBubbleIntervalTime": 13,
+            "hasCardBubble": false
+        },
+        {
+            "lifeId": 2006,
+            "eraId": 1011,
+            "gotRewardLv": 0,
+            "lv": 11,
+            "breed": 1,
+            "cardLv": 2,
+            "cardCount": 0,
+            "lastBubbleIntervalTime": 11,
+            "hasCardBubble": false
+        }
+    ],
+    "allBirthUnlockedLifes": [
+        {
+            "lifeId": 901,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 21
+        },
+        {
+            "lifeId": 902,
+            "breed": 4,
+            "cardLv": 6,
+            "cardCount": 9
+        },
+        {
+            "lifeId": 903,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 78
+        },
+        {
+            "lifeId": 904,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 27
+        },
+        {
+            "lifeId": 1001,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 70
+        },
+        {
+            "lifeId": 1002,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 74
+        },
+        {
+            "lifeId": 1003,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 52
+        },
+        {
+            "lifeId": 1004,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 12
+        },
+        {
+            "lifeId": 1101,
+            "breed": 3,
+            "cardLv": 6,
+            "cardCount": 14
+        },
+        {
+            "lifeId": 1102,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 57
+        },
+        {
+            "lifeId": 1103,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 46
+        },
+        {
+            "lifeId": 1104,
+            "breed": 2,
+            "cardLv": 6,
+            "cardCount": 15
+        },
+        {
+            "lifeId": 1201,
+            "breed": 5,
+            "cardLv": 5,
+            "cardCount": 34
+        },
+        {
+            "lifeId": 1202,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 31
+        },
+        {
+            "lifeId": 1203,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 14
+        },
+        {
+            "lifeId": 1204,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 38
+        },
+        {
+            "lifeId": 1205,
+            "breed": 4,
+            "cardLv": 4,
+            "cardCount": 47
+        },
+        {
+            "lifeId": 1301,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 19
+        },
+        {
+            "lifeId": 1302,
+            "breed": 4,
+            "cardLv": 4,
+            "cardCount": 17
+        },
+        {
+            "lifeId": 1303,
+            "breed": 4,
+            "cardLv": 4,
+            "cardCount": 28
+        },
+        {
+            "lifeId": 1304,
+            "breed": 3,
+            "cardLv": 4,
+            "cardCount": 39
+        },
+        {
+            "lifeId": 1305,
+            "breed": 3,
+            "cardLv": 4,
+            "cardCount": 25
+        },
+        {
+            "lifeId": 1401,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 17
+        },
+        {
+            "lifeId": 1402,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 4
+        },
+        {
+            "lifeId": 1403,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 47
+        },
+        {
+            "lifeId": 1404,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 15
+        },
+        {
+            "lifeId": 1405,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 33
+        },
+        {
+            "lifeId": 1406,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 35
+        },
+        {
+            "lifeId": 1501,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 44
+        },
+        {
+            "lifeId": 1502,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 74
+        },
+        {
+            "lifeId": 1503,
+            "breed": 4,
+            "cardLv": 5,
+            "cardCount": 42
+        },
+        {
+            "lifeId": 1504,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 57
+        },
+        {
+            "lifeId": 1505,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 35
+        },
+        {
+            "lifeId": 1506,
+            "breed": 3,
+            "cardLv": 6,
+            "cardCount": 41
+        },
+        {
+            "lifeId": 1601,
+            "breed": 2,
+            "cardLv": 5,
+            "cardCount": 95
+        },
+        {
+            "lifeId": 1602,
+            "breed": 2,
+            "cardLv": 4,
+            "cardCount": 41
+        },
+        {
+            "lifeId": 1603,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 45
+        },
+        {
+            "lifeId": 1604,
+            "breed": 2,
+            "cardLv": 5,
+            "cardCount": 15
+        },
+        {
+            "lifeId": 1605,
+            "breed": 3,
+            "cardLv": 5,
+            "cardCount": 47
+        },
+        {
+            "lifeId": 1606,
+            "breed": 3,
+            "cardLv": 4,
+            "cardCount": 92
+        },
+        {
+            "lifeId": 1607,
+            "breed": 1,
+            "cardLv": 5,
+            "cardCount": 20
+        },
+        {
+            "lifeId": 1701,
+            "breed": 3,
+            "cardLv": 2,
+            "cardCount": 93
+        },
+        {
+            "lifeId": 1702,
+            "breed": 3,
+            "cardLv": 4,
+            "cardCount": 86
+        },
+        {
+            "lifeId": 1703,
+            "breed": 3,
+            "cardLv": 3,
+            "cardCount": 78
+        },
+        {
+            "lifeId": 1704,
+            "breed": 3,
+            "cardLv": 2,
+            "cardCount": 26
+        },
+        {
+            "lifeId": 1705,
+            "breed": 3,
+            "cardLv": 2,
+            "cardCount": 55
+        },
+        {
+            "lifeId": 1706,
+            "breed": 2,
+            "cardLv": 2,
+            "cardCount": 48
+        },
+        {
+            "lifeId": 1801,
+            "breed": 1,
+            "cardLv": 1,
+            "cardCount": 0
+        },
+        {
+            "lifeId": 1901,
+            "breed": 1,
+            "cardLv": 1,
+            "cardCount": 0
+        },
+        {
+            "lifeId": 2001,
+            "breed": 2,
+            "cardLv": 1,
+            "cardCount": 0
+        },
+        {
+            "lifeId": 2002,
+            "breed": 1,
+            "cardLv": 2,
+            "cardCount": 0
+        },
+        {
+            "lifeId": 2003,
+            "breed": 1,
+            "cardLv": 2,
+            "cardCount": 0
+        },
+        {
+            "lifeId": 2004,
+            "breed": 1,
+            "cardLv": 2,
+            "cardCount": 0
+        },
+        {
+            "lifeId": 2005,
+            "breed": 1,
+            "cardLv": 2,
+            "cardCount": 0
+        },
+        {
+            "lifeId": 2006,
+            "breed": 1,
+            "cardLv": 2,
+            "cardCount": 0
+        }
+    ],
+    "historyUnlockedLifes": [
+        901,
+        902,
+        903,
+        904,
+        1001,
+        1002,
+        1003,
+        1004,
+        1101,
+        1102,
+        1103,
+        1104,
+        1201,
+        1202,
+        1203,
+        1204,
+        1205,
+        1301,
+        1302,
+        1303,
+        1304,
+        1305,
+        1401,
+        1402,
+        1403,
+        1404,
+        1405,
+        1406,
+        1501,
+        1502,
+        1503,
+        1504,
+        1505,
+        1506,
+        1601,
+        1602,
+        1603,
+        1604,
+        1605,
+        1606,
+        1607,
+        1701,
+        1702,
+        1703,
+        1704,
+        1705,
+        1706,
+        1801,
+        1901,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+    ],
+    "secondCalInfosList": [],
+    "rebirthTimeInfosList": [],
+    "unlockedParts": [
+        {
+            "id": 1001,
+            "evoLv": 99
+        },
+        {
+            "id": 1015,
+            "evoLv": 10
+        },
+        {
+            "id": 1014,
+            "evoLv": 10
+        },
+        {
+            "id": 1016,
+            "evoLv": 10
+        },
+        {
+            "id": 1017,
+            "evoLv": 10
+        },
+        {
+            "id": 1002,
+            "evoLv": 99
+        },
+        {
+            "id": 1021,
+            "evoLv": 10
+        },
+        {
+            "id": 1022,
+            "evoLv": 10
+        },
+        {
+            "id": 1019,
+            "evoLv": 10
+        },
+        {
+            "id": 1020,
+            "evoLv": 10
+        },
+        {
+            "id": 1018,
+            "evoLv": 10
+        },
+        {
+            "id": 1003,
+            "evoLv": 99
+        },
+        {
+            "id": 1025,
+            "evoLv": 10
+        },
+        {
+            "id": 1024,
+            "evoLv": 10
+        },
+        {
+            "id": 1023,
+            "evoLv": 10
+        },
+        {
+            "id": 1026,
+            "evoLv": 10
+        },
+        {
+            "id": 1004,
+            "evoLv": 99
+        },
+        {
+            "id": 1029,
+            "evoLv": 10
+        },
+        {
+            "id": 1027,
+            "evoLv": 10
+        },
+        {
+            "id": 1030,
+            "evoLv": 10
+        },
+        {
+            "id": 1031,
+            "evoLv": 10
+        },
+        {
+            "id": 1028,
+            "evoLv": 10
+        },
+        {
+            "id": 1005,
+            "evoLv": 99
+        },
+        {
+            "id": 1032,
+            "evoLv": 10
+        },
+        {
+            "id": 1034,
+            "evoLv": 10
+        },
+        {
+            "id": 1033,
+            "evoLv": 10
+        },
+        {
+            "id": 1035,
+            "evoLv": 10
+        },
+        {
+            "id": 1006,
+            "evoLv": 99
+        },
+        {
+            "id": 1036,
+            "evoLv": 10
+        },
+        {
+            "id": 1038,
+            "evoLv": 10
+        },
+        {
+            "id": 1039,
+            "evoLv": 10
+        },
+        {
+            "id": 1037,
+            "evoLv": 10
+        },
+        {
+            "id": 1040,
+            "evoLv": 10
+        },
+        {
+            "id": 1007,
+            "evoLv": 99
+        },
+        {
+            "id": 1043,
+            "evoLv": 10
+        },
+        {
+            "id": 1041,
+            "evoLv": 10
+        },
+        {
+            "id": 1044,
+            "evoLv": 10
+        },
+        {
+            "id": 1042,
+            "evoLv": 10
+        },
+        {
+            "id": 1045,
+            "evoLv": 10
+        },
+        {
+            "id": 1008,
+            "evoLv": 99
+        },
+        {
+            "id": 1048,
+            "evoLv": 10
+        },
+        {
+            "id": 1046,
+            "evoLv": 10
+        },
+        {
+            "id": 1049,
+            "evoLv": 10
+        },
+        {
+            "id": 1009,
+            "evoLv": 99
+        },
+        {
+            "id": 1051,
+            "evoLv": 10
+        },
+        {
+            "id": 1050,
+            "evoLv": 10
+        },
+        {
+            "id": 1052,
+            "evoLv": 10
+        },
+        {
+            "id": 1010,
+            "evoLv": 99
+        },
+        {
+            "id": 1053,
+            "evoLv": 10
+        },
+        {
+            "id": 1047,
+            "evoLv": 10
+        },
+        {
+            "id": 1057,
+            "evoLv": 10
+        },
+        {
+            "id": 1058,
+            "evoLv": 10
+        },
+        {
+            "id": 1056,
+            "evoLv": 10
+        },
+        {
+            "id": 1054,
+            "evoLv": 10
+        },
+        {
+            "id": 1055,
+            "evoLv": 10
+        },
+        {
+            "id": 1011,
+            "evoLv": 70
+        },
+        {
+            "id": 1060,
+            "evoLv": 10
+        },
+        {
+            "id": 1062,
+            "evoLv": 10
+        },
+        {
+            "id": 1059,
+            "evoLv": 10
+        },
+        {
+            "id": 1061,
+            "evoLv": 10
+        }
+    ],
+    "shopItemInfos": [
+        {
+            "id": 1,
+            "type": 2,
+            "startTime": "1745580064",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 2,
+            "type": 2,
+            "startTime": "1751217482",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 3,
+            "type": 2,
+            "startTime": "0",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 4,
+            "type": 2,
+            "startTime": "0",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 5,
+            "type": 2,
+            "startTime": "0",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 6,
+            "type": 2,
+            "startTime": "0",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 7,
+            "type": 2,
+            "startTime": "0",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 8,
+            "type": 2,
+            "startTime": "0",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 9,
+            "type": 2,
+            "startTime": "0",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 10,
+            "type": 2,
+            "startTime": "0",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 1001,
+            "type": 1,
+            "startTime": "1751006905",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 1010,
+            "type": 1,
+            "startTime": "0",
+            "overTime": "0",
+            "buyCount": 2
+        },
+        {
+            "id": 1020,
+            "type": 1,
+            "startTime": "0",
+            "overTime": "0",
+            "buyCount": 0
+        },
+        {
+            "id": 1021,
+            "type": 1,
+            "startTime": "0",
+            "overTime": "0",
+            "buyCount": 0
+        }
+    ],
+    "shopLifeInfos": [
+        {
+            "id": 2006,
+            "curCount": 0,
+            "maxCount": 16
+        },
+        {
+            "id": 2005,
+            "curCount": 0,
+            "maxCount": 16
+        },
+        {
+            "id": 2004,
+            "curCount": 0,
+            "maxCount": 16
+        }
+    ],
+    "hormoneInfos": [
+        {
+            "id": 1,
+            "lv": 25
+        },
+        {
+            "id": 2,
+            "lv": 11
+        },
+        {
+            "id": 3,
+            "lv": 10
+        },
+        {
+            "id": 4,
+            "lv": 4
+        },
+        {
+            "id": 5,
+            "lv": 9
+        },
+        {
+            "id": 6,
+            "lv": 4
+        }
+    ],
+    "Coin": {
+        "num": 99999999999563.0,
+        "unit": 19
+    },
+    "Diamon": {
+        "num": 999999563.0,
+        "unit": -1
+    },
+    "UDiamon": {
+        "num": 1.000000435,
+        "unit": 1
+    },
+    "Water": {
+        "num": 999999999.0,
+        "unit": -1
+    },
+    "Wisdom": {
+        "num": 999.999999,
+        "unit": 15
+    },
+    "Hormone": {
+        "num": 999999999.0,
+        "unit": -1
+    },
+    "Bell": {
+        "num": 999999999.0,
+        "unit": -1
+    },
+    "Fu": {
+        "num": 999999999.0,
+        "unit": -1
+    },
+    "Cream": {
+        "num": 999999999.0,
+        "unit": -1
+    },
+    "Intellect": {
+        "num": 999999999.0,
+        "unit": -1
+    },
+    "Punch": {
+        "num": 999999999.0,
+        "unit": -1
+    },
+    "Refine": {
+        "num": 999999999.0,
+        "unit": -1
+    },
+    "Keep": {
+        "num": 999999999.0,
+        "unit": -1
+    },
+    "HighCrystalBoxTicket": {
+        "num": 999999999.0,
+        "unit": -1
+    },
+    "CrystalChip": {
+        "num": 999999999.0,
+        "unit": -1
+    },
+    "Badge": {
+        "num": 999999999.0,
+        "unit": 0
+    },
+    "purchaserList": [],
+    "questionInfos": null,
+    "allUnlockTasks": [
+        901,
+        1001,
+        1100,
+        1453,
+        1098,
+        902,
+        1099,
+        1454,
+        1002,
+        1456,
+        1003,
+        1458,
+        1004,
+        1005,
+        1006,
+        1459,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016,
+        1017,
+        1018,
+        1019,
+        1020,
+        1021,
+        1022,
+        1023,
+        1024,
+        1025,
+        1026,
+        1027,
+        1028,
+        1029,
+        1030,
+        1460,
+        1461,
+        1462,
+        1463,
+        1464,
+        1465,
+        1466,
+        1467,
+        1468,
+        1469,
+        1102,
+        1104,
+        1106,
+        1108,
+        1109,
+        1110,
+        1111,
+        1112,
+        1113,
+        1114,
+        1115,
+        1116,
+        1117,
+        1118,
+        1119,
+        1120,
+        1121,
+        1031,
+        1122,
+        1032,
+        1123,
+        1124,
+        1125,
+        1126,
+        1127,
+        1128,
+        1129,
+        1130,
+        1131,
+        1132,
+        1133,
+        1134,
+        1135,
+        1136,
+        1033,
+        1137,
+        1138,
+        1139,
+        1140,
+        1141,
+        1142,
+        1143,
+        1144,
+        1145,
+        1146,
+        1147,
+        1148,
+        1149,
+        1150,
+        1151,
+        1152,
+        1153,
+        1154,
+        1155,
+        1156,
+        1157,
+        1158,
+        1159,
+        1160,
+        1161,
+        1162,
+        1163,
+        1164,
+        1165,
+        1166,
+        1167,
+        1168,
+        1470,
+        1169,
+        1471,
+        1170,
+        1472,
+        1171,
+        1172,
+        1173,
+        1473,
+        1174,
+        1175,
+        1176,
+        1177,
+        1474,
+        1178,
+        1179,
+        1180,
+        1181,
+        1182,
+        1183,
+        1184,
+        1185,
+        1186,
+        1187,
+        1188,
+        1189,
+        1190,
+        1191,
+        1192,
+        1034,
+        1193,
+        1194,
+        1035,
+        1195,
+        1196,
+        1197,
+        1198,
+        1199,
+        1036,
+        1200,
+        1201,
+        1202,
+        1037,
+        1203,
+        1204,
+        1205,
+        1206,
+        1038,
+        1039,
+        1040,
+        1041,
+        1207,
+        1208,
+        1209,
+        1210,
+        1042,
+        1043,
+        1044,
+        1045,
+        1046,
+        1047,
+        1211,
+        1212,
+        1213,
+        1214,
+        1215,
+        1216,
+        1217,
+        1218,
+        1219,
+        1220,
+        1221,
+        1222,
+        1223,
+        1224,
+        1225,
+        1226,
+        1227,
+        1228,
+        1229,
+        1230,
+        1231,
+        1232,
+        1233,
+        1234,
+        1048,
+        1049,
+        1050,
+        1051,
+        1052,
+        1475
+    ],
+    "allUnlockRebirthTasks": [
+        1891,
+        1896,
+        1901,
+        1907,
+        1913,
+        1920,
+        1927,
+        1928
+    ],
+    "doingTasks": [
+        {
+            "taskId": 1052,
+            "useNumBean": false,
+            "nowProgress": 0,
+            "nowProgressBean": null,
+            "isCompleted": false,
+            "gotReward": false,
+            "conditions": [
+                "5",
+                "1707"
+            ]
+        },
+        {
+            "taskId": 1475,
+            "useNumBean": false,
+            "nowProgress": 2,
+            "nowProgressBean": null,
+            "isCompleted": false,
+            "gotReward": false,
+            "conditions": [
+                "5",
+                "1104"
+            ]
+        },
+        {
+            "taskId": 1928,
+            "useNumBean": false,
+            "nowProgress": 1,
+            "nowProgressBean": null,
+            "isCompleted": false,
+            "gotReward": false,
+            "conditions": [
+                "5",
+                "1601"
+            ]
+        }
+    ],
+    "signInfo": {
+        "date": 20250701,
+        "count": 4,
+        "isShow": 1,
+        "newDayDate": 20250701
+    },
+    "onlineInfo": {
+        "id": 2,
+        "time": 0,
+        "state": 1
+    },
+    "saleInfo": {
+        "id": 1,
+        "time": "1745580064",
+        "saleGiftInfos": [
+            {
+                "id": 1,
+                "state": 0
+            },
+            {
+                "id": 2,
+                "state": 0
+            },
+            {
+                "id": 3,
+                "state": 0
+            },
+            {
+                "id": 4,
+                "state": 0
+            },
+            {
+                "id": 5,
+                "state": 0
+            },
+            {
+                "id": 6,
+                "state": 0
+            },
+            {
+                "id": 7,
+                "state": 0
+            }
+        ]
+    },
+    "christSaleInfo": {
+        "id": 1,
+        "time": "0",
+        "saleGiftInfos": null
+    },
+    "chNYSaleInfo": {
+        "id": 1,
+        "time": "0",
+        "saleGiftInfos": null
+    },
+    "childSaleInfo": {
+        "id": 1,
+        "time": "0",
+        "saleGiftInfos": null
+    },
+    "chNYEventInfos": [
+        {
+            "id": 1,
+            "count": 0
+        },
+        {
+            "id": 2,
+            "count": 0
+        },
+        {
+            "id": 3,
+            "count": 0
+        },
+        {
+            "id": 4,
+            "count": 0
+        },
+        {
+            "id": 5,
+            "count": 1
+        },
+        {
+            "id": 6,
+            "count": 0
+        },
+        {
+            "id": 7,
+            "count": 0
+        },
+        {
+            "id": 8,
+            "count": 0
+        },
+        {
+            "id": 9,
+            "count": 0
+        },
+        {
+            "id": 10,
+            "count": 0
+        },
+        {
+            "id": 11,
+            "count": 0
+        },
+        {
+            "id": 12,
+            "count": 0
+        }
+    ],
+    "childEventInfos": [
+        {
+            "id": 1,
+            "count": 0
+        },
+        {
+            "id": 2,
+            "count": 0
+        },
+        {
+            "id": 3,
+            "count": 0
+        },
+        {
+            "id": 4,
+            "count": 0
+        },
+        {
+            "id": 5,
+            "count": 0
+        },
+        {
+            "id": 6,
+            "count": 0
+        },
+        {
+            "id": 7,
+            "count": 0
+        },
+        {
+            "id": 8,
+            "count": 0
+        },
+        {
+            "id": 9,
+            "count": 0
+        },
+        {
+            "id": 10,
+            "count": 0
+        },
+        {
+            "id": 11,
+            "count": 0
+        },
+        {
+            "id": 12,
+            "count": 0
+        },
+        {
+            "id": 13,
+            "count": 0
+        },
+        {
+            "id": 14,
+            "count": 0
+        },
+        {
+            "id": 15,
+            "count": 0
+        },
+        {
+            "id": 16,
+            "count": 0
+        },
+        {
+            "id": 17,
+            "count": 0
+        },
+        {
+            "id": 18,
+            "count": 0
+        }
+    ],
+    "getIntellect": 0,
+    "getQGem": 0,
+    "anniversaryEventInfos": [
+        {
+            "id": 1,
+            "count": 0
+        },
+        {
+            "id": 2,
+            "count": 0
+        },
+        {
+            "id": 3,
+            "count": 0
+        },
+        {
+            "id": 4,
+            "count": 0
+        },
+        {
+            "id": 5,
+            "count": 0
+        },
+        {
+            "id": 6,
+            "count": 0
+        },
+        {
+            "id": 7,
+            "count": 0
+        },
+        {
+            "id": 8,
+            "count": 0
+        },
+        {
+            "id": 9,
+            "count": 0
+        },
+        {
+            "id": 10,
+            "count": 0
+        },
+        {
+            "id": 11,
+            "count": 0
+        },
+        {
+            "id": 12,
+            "count": 0
+        },
+        {
+            "id": 13,
+            "count": 0
+        },
+        {
+            "id": 14,
+            "count": 0
+        },
+        {
+            "id": 15,
+            "count": 0
+        }
+    ],
+    "getAnniversaryRedGiftCount": 0,
+    "anniversarySaleInfos": [
+        {
+            "id": 1,
+            "state": 0
+        },
+        {
+            "id": 2,
+            "state": 0
+        },
+        {
+            "id": 3,
+            "state": 0
+        },
+        {
+            "id": 4,
+            "state": 0
+        },
+        {
+            "id": 5,
+            "state": 0
+        },
+        {
+            "id": 6,
+            "state": 0
+        },
+        {
+            "id": 7,
+            "state": 0
+        },
+        {
+            "id": 8,
+            "state": 0
+        }
+    ],
+    "getShopDNABuff": 0,
+    "getShopBubbleBuff": 0,
+    "watchADCount": 0,
+    "rebInfos": [
+        {
+            "id": 1,
+            "evoLv": 95
+        },
+        {
+            "id": 2,
+            "evoLv": 97
+        },
+        {
+            "id": 3,
+            "evoLv": 99
+        }
+    ],
+    "payGiftDatas": [
+        {
+            "id": 1,
+            "type": 1,
+            "overTime": "0",
+            "buyCount": 0,
+            "isShow": 1
+        },
+        {
+            "id": 2,
+            "type": 1,
+            "overTime": "0",
+            "buyCount": 0,
+            "isShow": 1
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "overTime": "0",
+            "buyCount": 0,
+            "isShow": 1
+        },
+        {
+            "id": 4,
+            "type": 1,
+            "overTime": "0",
+            "buyCount": 0,
+            "isShow": 1
+        },
+        {
+            "id": 5,
+            "type": 1,
+            "overTime": "0",
+            "buyCount": 0,
+            "isShow": 1
+        },
+        {
+            "id": 6,
+            "type": 1,
+            "overTime": "0",
+            "buyCount": 0,
+            "isShow": 1
+        },
+        {
+            "id": 7,
+            "type": 1,
+            "overTime": "0",
+            "buyCount": 0,
+            "isShow": 1
+        },
+        {
+            "id": 8,
+            "type": 1,
+            "overTime": "0",
+            "buyCount": 0,
+            "isShow": 1
+        },
+        {
+            "id": 9,
+            "type": 1,
+            "overTime": "0",
+            "buyCount": 0,
+            "isShow": 1
+        },
+        {
+            "id": 10,
+            "type": 1,
+            "overTime": "0",
+            "buyCount": 0,
+            "isShow": 1
+        },
+        {
+            "id": 11,
+            "type": 1,
+            "overTime": "0",
+            "buyCount": 0,
+            "isShow": 1
+        },
+        {
+            "id": 17,
+            "type": 1,
+            "overTime": "1751371369",
+            "buyCount": 0,
+            "isShow": 0
+        }
+    ],
+    "getLifeTreeExp1": 600,
+    "getLifeTreeExp2": 600,
+    "crystalHBoxCount": 11,
+    "getCrystalChipCount1": 134,
+    "getCrystalChipCount2": 134,
+    "todaySpinCount": 0,
+    "lastIntervelTime": 1751326302853,
+    "luckySpinProgressCount": 4,
+    "luckySpinCount": 36,
+    "luckySpinPassNewFirst": true,
+    "GSpinCountInfos": [
+        {
+            "type": 31,
+            "count": 2
+        },
+        {
+            "type": 32,
+            "count": 1
+        },
+        {
+            "type": 33,
+            "count": 1
+        }
+    ],
+    "GSpinBoxGetStates": [
+        {
+            "type": 0,
+            "state": 1
+        },
+        {
+            "type": 1,
+            "state": -1
+        },
+        {
+            "type": 2,
+            "state": -1
+        }
+    ],
+    "achInfos": [
+        {
+            "type": 1,
+            "curID": 1001,
+            "progress": "1",
+            "state": 2,
+            "doneIDs": ""
+        },
+        {
+            "type": 2,
+            "curID": 1002,
+            "progress": "0",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 3,
+            "curID": 1008,
+            "progress": "3733",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 4,
+            "curID": 1015,
+            "progress": "145832",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 5,
+            "curID": 1022,
+            "progress": "104",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 6,
+            "curID": 1028,
+            "progress": "175",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 8,
+            "curID": 1034,
+            "progress": "4395",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 9,
+            "curID": 1057,
+            "progress": "469.48R",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 13,
+            "curID": 1102,
+            "progress": "11",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 14,
+            "curID": 1190,
+            "progress": "0",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 15,
+            "curID": 1276,
+            "progress": "0",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 16,
+            "curID": 1288,
+            "progress": "407",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 17,
+            "curID": 1296,
+            "progress": "117",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 18,
+            "curID": 1303,
+            "progress": "148",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 19,
+            "curID": 1311,
+            "progress": "18300",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 20,
+            "curID": 1317,
+            "progress": "5.833333",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 21,
+            "curID": 1324,
+            "progress": "0",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 22,
+            "curID": 1328,
+            "progress": "0",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 23,
+            "curID": 1333,
+            "progress": "5",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 24,
+            "curID": 1336,
+            "progress": "5",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 25,
+            "curID": 1338,
+            "progress": "4",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 26,
+            "curID": 1341,
+            "progress": "0",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 27,
+            "curID": 1344,
+            "progress": "0",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 28,
+            "curID": 1347,
+            "progress": "1",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 29,
+            "curID": 1351,
+            "progress": "9",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 30,
+            "curID": 1357,
+            "progress": "4382",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 31,
+            "curID": 1363,
+            "progress": "40",
+            "state": 0,
+            "doneIDs": ""
+        }
+    ],
+    "achDoneInfos": [
+        1003,
+        1039,
+        1004,
+        1091,
+        1040,
+        1092,
+        1041,
+        1042,
+        1093,
+        1043,
+        1005,
+        1094,
+        1044,
+        1045,
+        1006,
+        1046,
+        1095,
+        1096,
+        1047,
+        1097,
+        1048,
+        1007,
+        1098,
+        1049,
+        1099,
+        1100,
+        1050,
+        1101
+    ],
+    "achUnlockLifeInfos": [
+        {
+            "type": 0,
+            "curID": 901,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 902,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 903,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 904,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1001,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1002,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1003,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1004,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1101,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1102,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1103,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1104,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1201,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1202,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1203,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1204,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1205,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1301,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1302,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1303,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1304,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1305,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1401,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1402,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1403,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1404,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1405,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1406,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1501,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1502,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1503,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1504,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1505,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1506,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1601,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1602,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1603,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1604,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1605,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1606,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1607,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1701,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1702,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1703,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1704,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1705,
+            "progress": "",
+            "state": 1,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1706,
+            "progress": "",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1801,
+            "progress": "",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 1901,
+            "progress": "",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 2001,
+            "progress": "",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 2002,
+            "progress": "",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 2003,
+            "progress": "",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 2004,
+            "progress": "",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 2005,
+            "progress": "",
+            "state": 0,
+            "doneIDs": ""
+        },
+        {
+            "type": 0,
+            "curID": 2006,
+            "progress": "",
+            "state": 0,
+            "doneIDs": ""
+        }
+    ],
+    "lastLoginTime": 1751326237853,
+    "pastDay": 20250701,
+    "pastDayTwelve": 20250701,
+    "bufferInfoList": [],
+    "bufferBackpackInfos": [],
+    "DNABPBufferInUseList": [
+        {
+            "bufferType": 4,
+            "startTime": 1751365476179,
+            "endTime": 1751366316179,
+            "isOpen": true,
+            "rate": 50,
+            "lv": 2,
+            "time": 120.0,
+            "num": 1,
+            "lastStartTime": 1751365517278
+        }
+    ],
+    "BubbleBpBufferInUseList": [],
+    "biopaksList": [
+        {
+            "sort": 0,
+            "type": 1,
+            "lv": 2,
+            "startTime": 1751326316853,
+            "endTime": 1751397899253,
+            "seeAdCount": 0,
+            "hasNow": false
+        },
+        {
+            "sort": 1,
+            "type": 1,
+            "lv": 1,
+            "startTime": 1751326316853,
+            "endTime": 1751412215733,
+            "seeAdCount": 0,
+            "hasNow": false
+        },
+        {
+            "sort": 2,
+            "type": 1,
+            "lv": 1,
+            "startTime": 1751326316853,
+            "endTime": 1751412215733,
+            "seeAdCount": 0,
+            "hasNow": false
+        },
+        {
+            "sort": 3,
+            "type": 1,
+            "lv": 1,
+            "startTime": 1751326316853,
+            "endTime": 1751412215733,
+            "seeAdCount": 0,
+            "hasNow": false
+        },
+        {
+            "sort": 4,
+            "type": 1,
+            "lv": 1,
+            "startTime": 1751326316853,
+            "endTime": 1751412215733,
+            "seeAdCount": 0,
+            "hasNow": false
+        },
+        {
+            "sort": 5,
+            "type": 1,
+            "lv": 1,
+            "startTime": 1751326316853,
+            "endTime": 1751412215733,
+            "seeAdCount": 0,
+            "hasNow": false
+        },
+        {
+            "sort": 6,
+            "type": 1,
+            "lv": 1,
+            "startTime": 1751326316853,
+            "endTime": 1751412215733,
+            "seeAdCount": 0,
+            "hasNow": false
+        },
+        {
+            "sort": 7,
+            "type": 1,
+            "lv": 1,
+            "startTime": 1751326316853,
+            "endTime": 1751412215733,
+            "seeAdCount": 0,
+            "hasNow": false
+        },
+        {
+            "sort": 8,
+            "type": 1,
+            "lv": 1,
+            "startTime": 1751326316853,
+            "endTime": 1751412215733,
+            "seeAdCount": 0,
+            "hasNow": false
+        }
+    ],
+    "todayBiopakSeeAdCount": 0,
+    "assembleInfos": [
+        {
+            "eraID": 1000,
+            "lv": 5,
+            "state": 1
+        },
+        {
+            "eraID": 1001,
+            "lv": 5,
+            "state": 1
+        },
+        {
+            "eraID": 1002,
+            "lv": 5,
+            "state": 1
+        },
+        {
+            "eraID": 1003,
+            "lv": 4,
+            "state": 1
+        },
+        {
+            "eraID": 1004,
+            "lv": 4,
+            "state": 1
+        },
+        {
+            "eraID": 1005,
+            "lv": 5,
+            "state": 1
+        },
+        {
+            "eraID": 1006,
+            "lv": 5,
+            "state": 1
+        },
+        {
+            "eraID": 1007,
+            "lv": 4,
+            "state": 1
+        },
+        {
+            "eraID": 1008,
+            "lv": 0,
+            "state": 0
+        },
+        {
+            "eraID": 1009,
+            "lv": 0,
+            "state": 0
+        },
+        {
+            "eraID": 1010,
+            "lv": 0,
+            "state": 0
+        },
+        {
+            "eraID": 1011,
+            "lv": 0,
+            "state": 0
+        },
+        {
+            "eraID": 1012,
+            "lv": 0,
+            "state": 0
+        },
+        {
+            "eraID": 1013,
+            "lv": 0,
+            "state": 0
+        },
+        {
+            "eraID": 1014,
+            "lv": 0,
+            "state": 0
+        },
+        {
+            "eraID": 1015,
+            "lv": 0,
+            "state": 0
+        },
+        {
+            "eraID": 1016,
+            "lv": 0,
+            "state": 0
+        }
+    ],
+    "christEventInfos": [
+        {
+            "id": 1,
+            "count": 1
+        },
+        {
+            "id": 2,
+            "count": 0
+        },
+        {
+            "id": 3,
+            "count": 0
+        },
+        {
+            "id": 4,
+            "count": 0
+        },
+        {
+            "id": 5,
+            "count": 0
+        },
+        {
+            "id": 6,
+            "count": 0
+        },
+        {
+            "id": 7,
+            "count": 0
+        },
+        {
+            "id": 8,
+            "count": 0
+        },
+        {
+            "id": 9,
+            "count": 0
+        },
+        {
+            "id": 10,
+            "count": 0
+        },
+        {
+            "id": 11,
+            "count": 0
+        },
+        {
+            "id": 12,
+            "count": 0
+        }
+    ],
+    "christLifeInfos": [],
+    "getFuCount": 0,
+    "getBellCount": 0,
+    "getBadgeCount": 0,
+    "playExtraHeads": [],
+    "timeRewards": [],
+    "SpecialPriceEndDay": 1751368864048,
+    "NormalPriceEndDay": 1753356064048,
+    "lastShowMWPop": 1751326304853,
+    "lv_ChNYFlyGift": 3,
+    "lv_ChristmasFly": 3,
+    "lv_ChildrenDay": 1,
+    "lv_AnniersaryFlyGift": 2,
+    "crystalInfo": {
+        "crystalBigDatas": [],
+        "maxBigCount": 25,
+        "maxSmallCount": 25,
+        "crystalChipRecoup": 1,
+        "crystalSmallDatas": []
+    },
+    "aiStealInfos": [
+        {
+            "type": 2,
+            "aiName": "EspurrAkatemia",
+            "stealValue": 50,
+            "time": "1751325678000"
+        },
+        {
+            "type": 2,
+            "aiName": "IDGHayato",
+            "stealValue": 35,
+            "time": "1751315992000"
+        },
+        {
+            "type": 2,
+            "aiName": "\u0421\u0413\u041D\u0418\u0418",
+            "stealValue": 44,
+            "time": "1751302703000"
+        },
+        {
+            "type": 2,
+            "aiName": "bygaga",
+            "stealValue": 41,
+            "time": "1751300231000"
+        },
+        {
+            "type": 2,
+            "aiName": "Givega",
+            "stealValue": 44,
+            "time": "1751299621000"
+        },
+        {
+            "type": 2,
+            "aiName": "\u041C\u043E\u0440\u0440\u043E",
+            "stealValue": 44,
+            "time": "1751291920000"
+        },
+        {
+            "type": 2,
+            "aiName": "VAI",
+            "stealValue": 59,
+            "time": "1751245069000"
+        },
+        {
+            "type": 2,
+            "aiName": "Freng",
+            "stealValue": 53,
+            "time": "1751236189000"
+        },
+        {
+            "type": 2,
+            "aiName": "LCF",
+            "stealValue": 47,
+            "time": "1751227774000"
+        },
+        {
+            "type": 2,
+            "aiName": "petaartimiss",
+            "stealValue": 38,
+            "time": "1751222390000"
+        },
+        {
+            "type": 2,
+            "aiName": "\uBC14\uC6A9",
+            "stealValue": 59,
+            "time": "1751217472000"
+        },
+        {
+            "type": 2,
+            "aiName": "Pallomaha",
+            "stealValue": 38,
+            "time": "1751216068000"
+        },
+        {
+            "type": 2,
+            "aiName": "GaiaLab",
+            "stealValue": 35,
+            "time": "1751106616000"
+        },
+        {
+            "type": 2,
+            "aiName": "\uC13C\uD2B8\uB7F4\uB3C4\uADF8\uB9C8",
+            "stealValue": 35,
+            "time": "1751095992000"
+        },
+        {
+            "type": 2,
+            "aiName": "\u5C0F\u5446\u5B50",
+            "stealValue": 41,
+            "time": "1751095212000"
+        },
+        {
+            "type": 2,
+            "aiName": "\u55E1\u561B\u5462",
+            "stealValue": 50,
+            "time": "1751085829000"
+        },
+        {
+            "type": 2,
+            "aiName": "Teufelschmiede",
+            "stealValue": 47,
+            "time": "1751074284000"
+        },
+        {
+            "type": 2,
+            "aiName": "Hmmm01",
+            "stealValue": 35,
+            "time": "1751069771000"
+        },
+        {
+            "type": 2,
+            "aiName": "Tzouvas",
+            "stealValue": 44,
+            "time": "1751058445000"
+        },
+        {
+            "type": 2,
+            "aiName": "Giussauro",
+            "stealValue": 59,
+            "time": "1751050585000"
+        }
+    ],
+    "aiStealCount": 6,
+    "lifeTreeLv": 1,
+    "lifeTreeExp": 600,
+    "nowStrength": 80,
+    "nowSeeADCount_Strength": 0,
+    "nowBuyCount_Strength": 0,
+    "lastRecoverStrengthTime": 1751365519278,
+    "lastCreatCreamTime": 1751365519278,
+    "mWaitCreamSlotInfos": [
+        {
+            "slotId": 1,
+            "num": 20,
+            "inAnim": false
+        },
+        {
+            "slotId": 5,
+            "num": 20,
+            "inAnim": false
+        },
+        {
+            "slotId": 3,
+            "num": 20,
+            "inAnim": false
+        },
+        {
+            "slotId": 2,
+            "num": 20,
+            "inAnim": false
+        },
+        {
+            "slotId": 4,
+            "num": 20,
+            "inAnim": false
+        },
+        {
+            "slotId": 0,
+            "num": 20,
+            "inAnim": false
+        }
+    ],
+    "shieldNum": 0,
+    "drawedProtect_Steal": 0,
+    "drawedProtect_Shield": 6,
+    "drawedProtect_HBox": 1,
+    "drawedProtect_EXP": 3,
+    "drawedProtect_Crystal": 40,
+    "sCrystalGetStates": [
+        -1,
+        -1,
+        -1
+    ],
+    "slotCrystalDatas": [
+        {
+            "slotId": 1001,
+            "crystalData": {
+                "id": "5696040988158323509",
+                "crystalType": 1,
+                "crystalAttr": 5,
+                "crystalQuality": 1,
+                "crystalLevel": 3,
+                "crystalKeep": 0,
+                "secondCrystalAttr1": {
+                    "attrQuality": 1,
+                    "attrType": 7,
+                    "attrValue": "0.0006",
+                    "attrLock": 0
+                },
+                "secondCrystalAttr2": {
+                    "attrQuality": 0,
+                    "attrType": 0,
+                    "attrValue": "",
+                    "attrLock": 0
+                }
+            }
+        },
+        {
+            "slotId": 2002,
+            "crystalData": {
+                "id": "5514465581052209105",
+                "crystalType": 2,
+                "crystalAttr": 11,
+                "crystalQuality": 3,
+                "crystalLevel": 3,
+                "crystalKeep": 240,
+                "secondCrystalAttr1": {
+                    "attrQuality": 3,
+                    "attrType": 12,
+                    "attrValue": "0.0062",
+                    "attrLock": 0
+                },
+                "secondCrystalAttr2": {
+                    "attrQuality": 0,
+                    "attrType": 0,
+                    "attrValue": "",
+                    "attrLock": 0
+                }
+            }
+        },
+        {
+            "slotId": 2001,
+            "crystalData": {
+                "id": "4647788761156967959",
+                "crystalType": 2,
+                "crystalAttr": 12,
+                "crystalQuality": 2,
+                "crystalLevel": 1,
+                "crystalKeep": 0,
+                "secondCrystalAttr1": {
+                    "attrQuality": 1,
+                    "attrType": 2,
+                    "attrValue": "0.0047",
+                    "attrLock": 0
+                },
+                "secondCrystalAttr2": {
+                    "attrQuality": 0,
+                    "attrType": 0,
+                    "attrValue": "",
+                    "attrLock": 0
+                }
+            }
+        },
+        {
+            "slotId": 2003,
+            "crystalData": {
+                "id": "5024520437442074831",
+                "crystalType": 2,
+                "crystalAttr": 9,
+                "crystalQuality": 1,
+                "crystalLevel": 5,
+                "crystalKeep": 0,
+                "secondCrystalAttr1": {
+                    "attrQuality": 1,
+                    "attrType": 15,
+                    "attrValue": "0.0003",
+                    "attrLock": 0
+                },
+                "secondCrystalAttr2": {
+                    "attrQuality": 0,
+                    "attrType": 0,
+                    "attrValue": "",
+                    "attrLock": 0
+                }
+            }
+        }
+    ],
+    "limitSaleDatas": [
+        {
+            "id": 1,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 2,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 3,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 4,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 5,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 6,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 7,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 8,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 9,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 10,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 11,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 12,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 13,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 14,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 15,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 16,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 17,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 18,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 19,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "id": 20,
+            "count": 0,
+            "buyTime": "0"
+        }
+    ],
+    "totalPayOneDay": "0",
+    "limitGiftTotalDatas": [
+        {
+            "id": 1,
+            "state": 0
+        },
+        {
+            "id": 2,
+            "state": 0
+        },
+        {
+            "id": 3,
+            "state": 0
+        },
+        {
+            "id": 4,
+            "state": 0
+        },
+        {
+            "id": 5,
+            "state": 0
+        },
+        {
+            "id": 6,
+            "state": 0
+        },
+        {
+            "id": 7,
+            "state": 0
+        }
+    ],
+    "limitGiftInfos": [
+        {
+            "type": 1,
+            "id": 8,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "type": 2,
+            "id": 11,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "type": 3,
+            "id": 13,
+            "count": 0,
+            "buyTime": "0"
+        },
+        {
+            "type": 4,
+            "id": 15,
+            "count": 0,
+            "buyTime": "20250701"
+        },
+        {
+            "type": 5,
+            "id": 16,
+            "count": 0,
+            "buyTime": "20250701"
+        },
+        {
+            "type": 6,
+            "id": 17,
+            "count": 0,
+            "buyTime": "20250701"
+        },
+        {
+            "type": 7,
+            "id": 18,
+            "count": 0,
+            "buyTime": "20250701"
+        },
+        {
+            "type": 8,
+            "id": 19,
+            "count": 0,
+            "buyTime": "20250701"
+        },
+        {
+            "type": 9,
+            "id": 20,
+            "count": 0,
+            "buyTime": "20250701"
+        }
+    ],
+    "visitTaskValue": 15,
+    "visitTaskInfos": [
+        {
+            "id": 1,
+            "count": 1,
+            "state": 0
+        },
+        {
+            "id": 2,
+            "count": 0,
+            "state": 0
+        },
+        {
+            "id": 3,
+            "count": 0,
+            "state": 0
+        },
+        {
+            "id": 4,
+            "count": 0,
+            "state": 0
+        },
+        {
+            "id": 5,
+            "count": 0,
+            "state": 0
+        },
+        {
+            "id": 6,
+            "count": 0,
+            "state": 0
+        },
+        {
+            "id": 7,
+            "count": 0,
+            "state": 0
+        },
+        {
+            "id": 8,
+            "count": 30,
+            "state": 1
+        },
+        {
+            "id": 9,
+            "count": 2,
+            "state": 0
+        },
+        {
+            "id": 10,
+            "count": 0,
+            "state": 0
+        },
+        {
+            "id": 11,
+            "count": 0,
+            "state": 0
+        },
+        {
+            "id": 12,
+            "count": 0,
+            "state": 0
+        }
+    ],
+    "visitTaskTotalInfos": [
+        {
+            "id": 1,
+            "state": 1
+        },
+        {
+            "id": 2,
+            "state": 0
+        },
+        {
+            "id": 3,
+            "state": 0
+        },
+        {
+            "id": 4,
+            "state": 0
+        },
+        {
+            "id": 5,
+            "state": 0
+        }
+    ],
+    "crystalShopData": {
+        "overTime": "1751384937",
+        "nextGold": 0,
+        "crystalShopItems": [
+            {
+                "id": 10,
+                "buyCount": 0
+            },
+            {
+                "id": 15,
+                "buyCount": 0
+            },
+            {
+                "id": 18,
+                "buyCount": 0
+            }
+        ]
+    },
+    "visitCardLv": 2,
+    "visitCardExp": 70,
+    "visitGetStates": [
+        {
+            "lv": 1,
+            "state": 2
+        },
+        {
+            "lv": 2,
+            "state": 2
+        },
+        {
+            "lv": 3,
+            "state": 0
+        },
+        {
+            "lv": 4,
+            "state": 0
+        },
+        {
+            "lv": 5,
+            "state": 0
+        },
+        {
+            "lv": 6,
+            "state": 0
+        },
+        {
+            "lv": 7,
+            "state": 0
+        },
+        {
+            "lv": 8,
+            "state": 0
+        },
+        {
+            "lv": 9,
+            "state": 0
+        },
+        {
+            "lv": 10,
+            "state": 0
+        },
+        {
+            "lv": 11,
+            "state": 0
+        },
+        {
+            "lv": 12,
+            "state": 0
+        },
+        {
+            "lv": 13,
+            "state": 0
+        },
+        {
+            "lv": 14,
+            "state": 0
+        },
+        {
+            "lv": 15,
+            "state": 0
+        },
+        {
+            "lv": 16,
+            "state": 0
+        },
+        {
+            "lv": 17,
+            "state": 0
+        },
+        {
+            "lv": 18,
+            "state": 0
+        },
+        {
+            "lv": 19,
+            "state": 0
+        },
+        {
+            "lv": 20,
+            "state": 0
+        },
+        {
+            "lv": 21,
+            "state": 0
+        },
+        {
+            "lv": 22,
+            "state": 0
+        },
+        {
+            "lv": 23,
+            "state": 0
+        },
+        {
+            "lv": 24,
+            "state": 0
+        },
+        {
+            "lv": 25,
+            "state": 0
+        }
+    ],
+    "visitCardEndTime": 1753427764872,
+    "mDataActType": 12,
+    "dataActVCode": -1,
+    "rankValue": 0,
+    "rechargeRankValue": 0,
+    "taskRankValue": 0,
+    "otherRankValue": 0,
+    "seaActRewardInfos": [
+        {
+            "id": 1,
+            "state": 0
+        },
+        {
+            "id": 2,
+            "state": 0
+        },
+        {
+            "id": 3,
+            "state": 0
+        },
+        {
+            "id": 4,
+            "state": 0
+        },
+        {
+            "id": 5,
+            "state": 0
+        },
+        {
+            "id": 6,
+            "state": 0
+        },
+        {
+            "id": 7,
+            "state": 0
+        },
+        {
+            "id": 8,
+            "state": 0
+        },
+        {
+            "id": 9,
+            "state": 0
+        },
+        {
+            "id": 10,
+            "state": 0
+        },
+        {
+            "id": 11,
+            "state": 0
+        },
+        {
+            "id": 12,
+            "state": 0
+        },
+        {
+            "id": 13,
+            "state": 0
+        },
+        {
+            "id": 14,
+            "state": 0
+        },
+        {
+            "id": 15,
+            "state": 0
+        },
+        {
+            "id": 16,
+            "state": 0
+        },
+        {
+            "id": 17,
+            "state": 0
+        },
+        {
+            "id": 18,
+            "state": 0
+        },
+        {
+            "id": 19,
+            "state": 0
+        },
+        {
+            "id": 20,
+            "state": 0
+        }
+    ],
+    "rankIsGet": 0,
+    "seaFlyADCount": 0,
+    "rankMyNum": 0,
+    "humanActRewardInfos": [
+        {
+            "id": 1,
+            "count": 0
+        },
+        {
+            "id": 2,
+            "count": 0
+        },
+        {
+            "id": 3,
+            "count": 0
+        },
+        {
+            "id": 4,
+            "count": 0
+        },
+        {
+            "id": 5,
+            "count": 0
+        },
+        {
+            "id": 6,
+            "count": 0
+        },
+        {
+            "id": 7,
+            "count": 0
+        },
+        {
+            "id": 8,
+            "count": 0
+        },
+        {
+            "id": 9,
+            "count": 0
+        },
+        {
+            "id": 10,
+            "count": 0
+        },
+        {
+            "id": 11,
+            "count": 0
+        },
+        {
+            "id": 12,
+            "count": 0
+        },
+        {
+            "id": 13,
+            "count": 0
+        },
+        {
+            "id": 14,
+            "count": 0
+        },
+        {
+            "id": 15,
+            "count": 0
+        }
+    ],
+    "rankConsumeValue": 0,
+    "hmActRewardInfos": [
+        {
+            "id": 1,
+            "state": 0
+        },
+        {
+            "id": 2,
+            "state": 0
+        },
+        {
+            "id": 3,
+            "state": 0
+        },
+        {
+            "id": 4,
+            "state": 0
+        },
+        {
+            "id": 5,
+            "state": 0
+        },
+        {
+            "id": 6,
+            "state": 0
+        },
+        {
+            "id": 7,
+            "state": 0
+        },
+        {
+            "id": 8,
+            "state": 0
+        },
+        {
+            "id": 9,
+            "state": 0
+        },
+        {
+            "id": 10,
+            "state": 0
+        },
+        {
+            "id": 11,
+            "state": 0
+        },
+        {
+            "id": 12,
+            "state": 0
+        },
+        {
+            "id": 13,
+            "state": 0
+        },
+        {
+            "id": 14,
+            "state": 0
+        },
+        {
+            "id": 15,
+            "state": 0
+        },
+        {
+            "id": 16,
+            "state": 0
+        },
+        {
+            "id": 17,
+            "state": 0
+        },
+        {
+            "id": 18,
+            "state": 0
+        },
+        {
+            "id": 19,
+            "state": 0
+        },
+        {
+            "id": 20,
+            "state": 0
+        }
+    ]
+}

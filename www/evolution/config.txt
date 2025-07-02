@@ -1,0 +1,21 @@
+{
+    "rebirth": 11,
+    "isExit": false,
+    "activityId": 0,
+    "activityData": null,
+    "mailFlag": false,
+    "diamond": 431,
+    "isVip": true,
+    "isFirstBind": true,
+    "temp": "",
+    "lastClientId": "8B33E21E657DE7CD822FEA47679E5012C43BF41F",
+    "creatVersion": 213,
+    "channelType": 1,
+    "version": "0_99",
+    "logLock": true,
+    "name": "1tbgffgh",
+    "status": 0,
+    "playerId": 16201208,
+    "dataFilePath": "data.txt",
+    "tokenLength": 32
+}

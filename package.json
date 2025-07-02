@@ -1,0 +1,17 @@
+{
+  "name": "nicksgenshinserver",
+  "version": "1.0.0",
+  "description": "Nick's Genshin Private Server",
+  "main": "index.js",
+  "author": "Nick",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "dgram": "^1.0.1",
+    "http": "0.0.1-security",
+    "net": "^1.0.2",
+    "protobufjs": "^6.11.2",
+    "sqlite3": "^5.0.2",
+    "udp-proxy": "^1.2.0"
+  }
+}
